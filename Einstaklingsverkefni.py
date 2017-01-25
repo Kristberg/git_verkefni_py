@@ -8,3 +8,7 @@ margf = tala1 * tala2
 print("Tölurnar lagðar saman eru:", summa)
 print("Tölurnar margfaldaðar saman eru:", margf)
 
+fornafn = input("Sláðu inn fornafn")
+eftirnafn = input("Sláðu inn eftirnafn")
+print("Halló",fornafn, eftirnafn)
+

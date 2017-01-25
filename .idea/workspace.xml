@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="51b3a878-cf53-4529-9536-fca3976be670" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Einstaklingsverkefni.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Einstaklingsverkefni.py" afterPath="$PROJECT_DIR$/Einstaklingsverkefni.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +21,8 @@
       <file leaf-file-name="Einstaklingsverkefni.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Einstaklingsverkefni.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -298,8 +298,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Einstaklingsverkefni.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>

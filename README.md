@@ -40,3 +40,6 @@ Spurningar:
 
 	9. Hver fann upp git?
 	    Linus Torvalds, hann nefndi flestöll verkefni eftir sjálfum sér t.d Linux.
+
+	10. Hvar er GIT helst notað?
+	     Aðallega í fyrirtækjum og það er líka notað í verkefnum eins og þessu.

@@ -12,3 +12,13 @@ fornafn = input("Sláðu inn fornafn")
 eftirnafn = input("Sláðu inn eftirnafn")
 print("Halló",fornafn, eftirnafn)
 
+texti=input("Sláðu inn texta: ")
+hastafur=0
+lagstafur=0
+for e in texti:
+    if e.isalpha():
+        if e.isupper():
+            hastafur=hastafur+1
+        if not e.isupper():
+            lagstafur=lagstafur+1
+print("Í þessum texta eru",hastafur,"hástafir og",lagstafur,"lágstafir")

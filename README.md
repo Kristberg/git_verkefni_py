@@ -23,4 +23,9 @@ Spurningar:
 
 	4. Hvað er útgáfustýring ( Version Control )
 	    Útgáfustýring ( Version Control ) er stýring af hvaða útgáfum er hægt að sjá og hvaða útgáfu þú vilt fara í.
-	    
+	 
+	5. Hverjir eru helstu kostir við að nota GIT?
+	    GitHub er fremur einfalt í notkun, notkun á GitHub ætti ekki að vera þáttur í fráhindrun GitHub notanda. Fremstu kostirnir eru örugglega hversu einfalt það er að nota það, rauntímabreytingin sem er gerð og magnið af fólki 		 sem er leyft að vinna í einu. Ef maður er að fara að vinna í rafrænu hópverkefni þar sem notkun og skipting á kóðum þá er GitHub bara standard hluturinn við þannig notkun og ættir ekki að fara annað nema að þú hafir reynslu 	      við notkun á öðru eða þér finnst það þægilegra. Notaðu github, það er bara mikið betra :D.
+
+	6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	    Það á að commita í git í hvert sinn sem stórar eða miðlungs breytingar eru gerðar til að viðhalda góðri 		 uppfærslu og stöðu gitsins t.d. þegar þú svara stórri spurningu er gott að commita.

@@ -29,3 +29,8 @@ Spurningar:
 
 	6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	    Það á að commita í git í hvert sinn sem stórar eða miðlungs breytingar eru gerðar til að viðhalda góðri uppfærslu og stöðu gitsins t.d. þegar þú svara stórri spurningu er gott að commita.
+
+	7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	    Working directory = Eða ( WD ) mappan sem þú ert staddur í.
+	    Staging area = Staðurinn sem þú gerir breytingar áður en þú commitar þær í gitið.
+	    Repository = Geymsla fyrir commits og vísanir í commits að nafni "heads".:

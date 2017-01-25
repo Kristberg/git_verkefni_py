@@ -37,3 +37,6 @@ Spurningar:
 
 	8. Hvenær er sniðugt að nota greinar (branches)? 
 	    Þegar þú vilt skipta mörgum hlutum í flokka, þá er gott að nota branches.
+
+	9. Hver fann upp git?
+	    Linus Torvalds, hann nefndi flestöll verkefni eftir sjálfum sér t.d Linux.

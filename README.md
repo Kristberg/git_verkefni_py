@@ -33,4 +33,7 @@ Spurningar:
 	7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 	    Working directory = Eða ( WD ) mappan sem þú ert staddur í.
 	    Staging area = Staðurinn sem þú gerir breytingar áður en þú commitar þær í gitið.
-	    Repository = Geymsla fyrir commits og vísanir í commits að nafni "heads".:
+	    Repository = Geymsla fyrir commits og vísanir í commits að nafni "heads".
+
+	8. Hvenær er sniðugt að nota greinar (branches)? 
+	    Þegar þú vilt skipta mörgum hlutum í flokka, þá er gott að nota branches.
